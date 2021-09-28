@@ -19,13 +19,13 @@ def demoBoard():
     print("\n1 | 2 | 3")
     print("4 | 5 | 6")
     print("7 | 8 | 9\n")
-    
+
 def checkWin():
     # Row Win
     for x in range(0, 3):
         if(board[x][0] == board[x][1] == board[x][2]):
             print("win")
-            
+
 
 
 while number_of_moves <= 6:
