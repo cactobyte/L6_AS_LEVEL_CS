@@ -1,0 +1,4 @@
+- Wake Up
+- * Eat Breakfast 
+- * Get Changed
+- * * Go to school
